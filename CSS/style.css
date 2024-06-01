@@ -1,0 +1,38 @@
+#sample {
+    background-color: blue;
+    color: aliceblue;
+}
+
+/* STYLE IN 03 PARTS  */
+/* Selector  */
+/* Property  */
+/* Value  */
+
+/* id selector  */
+
+#name {
+    border: 2px solid black;
+    border-radius: 50px;
+    background-color: gold;
+}
+
+/* class selector  */
+.amwd {
+    background-color: aqua;
+}
+.amwd-font{
+    color: cornsilk;
+}
+h4 {
+   background-color: bisque;
+}
+/* Universal Selector  
+* {
+    background-color: rgba(136, 0, 255, 0.731);
+    
+  } */
+
+  /* Child selector  */
+div > h3 {
+    background-color: blueviolet;
+}
